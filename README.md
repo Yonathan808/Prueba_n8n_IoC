@@ -5,6 +5,8 @@ IoC1IoC1
 IoC1IoC1IoC1
 IoC1IoC1IoC1IoC1
 IoC1IoC1IoC1IoC1IoC1
+
+
 === INDICADORES DE COMPROMISO (IoC) ===
 
 SHA256:
@@ -25,5 +27,4 @@ IPS:
 DOMAINS:
 canglly.cc
 hyper-info-sites.at
-
 
